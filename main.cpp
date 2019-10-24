@@ -320,9 +320,5 @@ int main()
         }
     }
     }
-    node *khanh = new node;
-    cout<<khanh->next<<endl;
-    khanh->next = NULL;
-    cout<<khanh->next;
     return 0;
 }
